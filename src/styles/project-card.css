@@ -1,0 +1,31 @@
+img {
+  border-radius: 14px;
+  padding: 12px;
+  width: 100%;
+}
+
+.project-card-container {
+  width: 100%;
+  background-color: rgb(77, 77, 77);
+  display: flex;
+  text-decoration: none;
+  color: white;
+}
+
+.project-card-text-container{
+padding: 20px 12px 12px 12px;
+}
+
+.project-card-heading{
+font-weight: 600;
+font-size: large;
+}
+
+.project-card-sub-heading{
+font-weight: 400;
+font-size: medium;
+}
+
+.spacing{
+     padding-top: 4vh;
+}

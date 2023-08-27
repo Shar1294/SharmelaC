@@ -1,10 +1,11 @@
 import React from "react";
+import Profile from "../components/profile.component";
 
 const Home = () => {
 
     return (
         <React.Fragment>
-            Home page
+            <Profile/>
         </React.Fragment>
     )
 }

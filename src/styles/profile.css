@@ -1,0 +1,32 @@
+.container {
+    width: 100%;
+}
+
+.profile-container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    padding: 10vw;
+}
+
+
+img {
+    border-radius: 80px;
+    max-width: 18vw;
+}
+
+.icons-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.icon {
+    box-shadow: 0px 0px 5px rgb(105, 105, 105);
+    border-radius: 50%;
+    /* background-color: #2f2f2f; */
+    padding: 10px 10px 6px 10px;
+}
+
