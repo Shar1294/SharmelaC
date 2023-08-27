@@ -1,12 +1,13 @@
-img {
+.project-img {
   border-radius: 14px;
-  padding: 12px;
-  width: 100%;
+  padding: 12px ;
+  width: 20vw;
 }
 
 .project-card-container {
   width: 100%;
   background-color: rgb(77, 77, 77);
+  box-shadow: 0 0 5px rgb(45, 45, 45);
   display: flex;
   text-decoration: none;
   color: white;
@@ -28,4 +29,17 @@ font-size: medium;
 
 .spacing{
      padding-top: 4vh;
+}
+
+@media (max-width: 768px){
+    .project-card-container{
+        display: block;
+    }
+
+    .project-img {
+      border-radius: 0px;
+      padding: 0px ;
+      width: 100% !important;
+      
+    }
 }

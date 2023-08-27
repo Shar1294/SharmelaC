@@ -1,6 +1,6 @@
 import React from "react";
 import profileImage from "../assets/profile.jpg";
-import "../styles/profile.css";
+import "../css/profile.css";
 import {BsFillTelephoneInboundFill, BsLinkedin} from "react-icons/bs";
 import {BiLogoGmail} from "react-icons/bi";
 import {ImFolderDownload} from "react-icons/im";
@@ -17,7 +17,7 @@ const Profile = () => {
     <React.Fragment>
       <div className="container">
         <div className="profile-container">
-          <img src={profileImage} />
+          <img className="profile-img" src={profileImage} />
 
             <div>Sharmela C</div>
             Cyber security Engineer

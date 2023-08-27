@@ -27,7 +27,7 @@
             "subheading":"Penetration testing to identify vulnerabilites",
             "tags":["OWASP", "Penetration", "web"],
             "date":"Dec 2022",
-            "image":"https://www.impactqa.com/wp-content/uploads/2022/01/Penetration-Blog.jpg",
+            "image":"https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg",
             "content":"One-click access to insightful information about technology stack, WAFs, security headers, crawled links, and authentication flow. Proxy with a detailed traffic log that allows you to repeat any request in the R-Builder or send it to the R-Attacker and execute XSS, SQL, or OS Command injections automatically. With Selenium integration, this extension can help you to identify security risks at the very beginning of your development cycle."
         }
     ]

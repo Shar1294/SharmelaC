@@ -5,9 +5,9 @@ import ProjectCard from "../components/project-card.component";
 
 const Projects = () => {
   return (
-    <div className="row parent-div">
-        <br/>      <br/>      <br/>      <br/>      <br/>      <br/>
-        
+    <div className="row parent-div top-spacing">
+      
+
       {projectsData.projects.map((project) => (
         <div className="col-sm-4">
           <Link

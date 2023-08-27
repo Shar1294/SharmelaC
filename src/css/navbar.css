@@ -13,9 +13,9 @@ nav{
 }
 
 
-.navbar {
+.navbar { 
   height: 60px;
-
+  background-color:black;
   position: fixed !important;
   top: 0;
   width: 100%;
@@ -73,7 +73,7 @@ nav{
     position: absolute;
     right: 0;
     top: 60px;
-    background-color: #ffffff;
+    background-color: #3f3f3f;
     width: 0px;
     height: calc(100vh - 60px);
     transition: all 0.3s ease-in;

@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { TbCodeCircle2 } from "react-icons/tb";
 
-import "../styles/navbar.css";
+import "../css/navbar.css";
 
 const Navbar = () => {
   const [showNavbar, setShowNavbar] = useState(false);
