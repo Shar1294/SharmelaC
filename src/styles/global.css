@@ -1,0 +1,13 @@
+.parent-div {
+    margin-left: 12vw !important;
+    margin-right: 12vw !important;
+    max-width: 100%;
+}
+
+.theme{
+    background-color: rgb(236, 236, 236);
+    width: 100vw;
+    height: 100vh;
+    color: rgb(51, 51, 51);
+    font-family:'Poppins', sans-serif;
+}
