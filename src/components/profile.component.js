@@ -20,7 +20,7 @@ const Profile = () => {
           <img className="profile-img" src={profileImage} />
 
             <div>Sharmela C</div>
-            Cyber security Engineer
+            Cyber Security Engineer
 
 
             <div className="icons-container">

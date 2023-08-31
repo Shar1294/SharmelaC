@@ -15,7 +15,7 @@ nav{
 
 .navbar { 
   height: 60px;
-  background-color:black;
+  background-color:rgb(242, 239, 239);
   position: fixed !important;
   top: 0;
   width: 100%;
@@ -38,8 +38,8 @@ nav{
 
 .nav-elements ul a {
   font-size: 16px;
-  font-weight: 400;
-  color: #f7f7f7;
+  font-weight: bold;
+  color: #0a0909;
   text-decoration: none;
 }
 
@@ -47,6 +47,7 @@ nav{
   color: #de7621;
   font-weight: 500;
   position: relative;
+  font-weight: bold;
 }
 
 .main-heading{
